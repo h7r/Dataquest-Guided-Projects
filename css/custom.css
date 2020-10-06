@@ -1,3 +1,5 @@
+/* Copyright (c) 2013 Cameron Davidson-Pilon */
+
 <style>
     @font-face {
         font-family: "Computer Modern";
@@ -39,19 +41,6 @@
         margin-left:auto;
         margin-right:auto;
     }
-	span.caption{		
-		font-size: 75%;		
-		padding: 2px;		
-		line-height: 0.5cm;
-		display: block;
-		border-bottom: 1px solid grey;
-	}
-	figcaption{
-		font-size: 75%;		
-		padding: 2px;		
-		text-align: center;
-		display: block;	
-	}
     .CodeMirror{
             font-family: "Source Code Pro", source-code-pro,Consolas, monospace;
     }
