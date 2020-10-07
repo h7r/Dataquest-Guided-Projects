@@ -1,4 +1,4 @@
 # Dataquest Guided Projects
  Backup repository for my Dataquest Guided Projects.
  
- 1. [Building a Postgres database](https://nbviewer.jupyter.org/github/h7r/Dataquest-Guided-Projects/blob/b3a3418bf616ae85ad65d169d6a1240d06497e9a/postgres_gp.ipynb)
+ 1. [PostgresSQL database for crime reports](https://nbviewer.jupyter.org/github/h7r/Dataquest-Guided-Projects/blob/1880b3a3ecd52fd09319342a8cea4d2114443a36/postgres_gp.ipynb)
