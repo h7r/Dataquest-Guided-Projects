@@ -1,0 +1,12 @@
+name: fast-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - scipy
+    - pandas
+    - matplotlib
+	- kneed
