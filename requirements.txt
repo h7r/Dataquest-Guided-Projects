@@ -1,0 +1,50 @@
+agate==1.6.1
+agate-dbf @ file:///tmp/build/80754af9/agate-dbf_1600131906274/work
+agate-excel==0.2.3
+agate-sql==0.5.5
+Babel==2.8.0
+certifi==2021.10.8
+csvkit @ file:///C:/ci/csvkit_1600349932749/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+dbfread==2.0.7
+et-xmlfile==1.0.1
+fonttools @ file:///D:/bld/fonttools_1643722825909/work
+isodate==0.6.0
+jdcal==1.4.1
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+kiwisolver @ file:///D:/bld/kiwisolver_1635836839743/work
+kneed @ file:///home/conda/feedstock_root/build_artifacts/kneed_1597304056973/work
+leather==0.3.3
+matplotlib @ file:///D:/bld/matplotlib-suite_1639359275746/work
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+munkres==1.1.4
+numpy @ file:///C:/ci_310/numpy_and_numpy_base_1643798589088/work
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1598113097404/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+pandas @ file:///C:/ci/pandas_1602083338010/work
+parsedatetime==2.6
+Pillow==9.0.1
+psycopg2 @ file:///C:/ci/psycopg2_1594305172475/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1642753572664/work
+PyQt5==5.12.3
+PyQt5_sip==4.19.18
+PyQtChart==5.12
+PyQtWebEngine==5.12.1
+python-dateutil==2.8.1
+python-slugify @ file:///tmp/build/80754af9/python-slugify_1600462544980/work
+pytimeparse==1.1.8
+pytz==2020.1
+scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
+scipy @ file:///C:/ci/scipy_1641555198988/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
+six==1.15.0
+SQLAlchemy @ file:///C:/ci/sqlalchemy_1598374833867/work
+text-unidecode==1.3
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tornado @ file:///D:/bld/tornado_1635819758615/work
+unicodedata2 @ file:///D:/bld/unicodedata2_1640031186081/work
+Unidecode==1.1.1
+wincertstore==0.2
+xlrd==1.2.0
